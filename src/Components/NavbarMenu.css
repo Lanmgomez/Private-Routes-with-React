@@ -1,0 +1,11 @@
+.navbar ul {
+    width: 500px;
+    display: flex;
+    margin: 0 auto;
+    list-style: none;
+}
+
+.navbar li {
+    padding: 10px;
+    margin: 10px;
+}
